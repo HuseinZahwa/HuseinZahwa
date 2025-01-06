@@ -1,63 +1,67 @@
-# Welcome to My GitHub Profile! 👋
+# Hi, I'm Husein Zahwa! 👋
 
-Hi, I'm **Husein Zahwa**, a Software Engineering student at Seneca College with a passion for developing innovative software solutions. This GitHub serves as a showcase for my projects, skills, and ongoing learning journey.
+Welcome to my GitHub! I'm a Software Engineering student at Seneca College, passionate about coding, game development, and creating impactful software solutions. My GitHub showcases my journey, projects, and the skills I bring to the tech world.
 
 ---
 
 ## Skills & Technologies
 
 ### Programming Languages
-- **Python**: Experienced in building secure web applications and scripting solutions.
-- **C#**: Proficient in game development with Unity.
-- **SQL**: Skilled in designing and querying relational databases.
+- **Python**: Proficient in web development, scripting, and software design.
+- **C#**: Skilled in game development using Unity.
+- **C/C++**: Experienced in systems programming and performance-critical applications.
+- **HTML & CSS**: Proficient in creating responsive and accessible web designs.
+- **SQL**: Experienced in designing and querying relational databases.
 
 ### Frameworks & Tools
-- **Django**: Backend web development with secure authentication and file handling.
-- **Unity**: Developing 2D/3D games with custom mechanics.
-- **Git**: Version control and collaboration.
-- **VS Code**: Primary IDE for development.
+- **Unity**: Game development with custom mechanics and physics.
+- **Godot**: Lightweight game creation with innovative gameplay mechanics.
+- **Django**: Backend development with secure authentication and data management.
+- **Flask**: Lightweight Python web framework for building scalable web applications.
+- **Node.js**: Server-side JavaScript runtime for building fast and scalable network applications.
+- **Git & GitHub**: Version control and collaboration.
 
 ### Core Competencies
-- **Database Design**: Normalization, ERD Crow's Foot notation, and advanced SQL queries.
-- **Web Development**: Building robust, secure, and user-friendly applications.
-- **Game Development**: Designing engaging gameplay mechanics and physics systems.
+- **Game Development**: Designing dynamic and engaging gameplay experiences.
+- **Software Development**: Building scalable, secure, and efficient software solutions.
+- **Problem-Solving**: Tackling complex challenges with creativity and logic.
 
 ---
 
 ## Featured Projects
 
-### [VaultShare](https://github.com/huseinzahwa/vaultshare)  
-A secure file-sharing application built with Django, featuring file uploads, encryption, and user authentication.
+### [Project Boost](https://github.com/huseinzahwa/project-boost)  
+A physics-based 2D video game developed in GDevelop (GDOT). The game challenges players to navigate through custom-designed levels with intuitive controls and engaging mechanics.
 
-- **Technologies Used**: Python, Django, SQLite
-- **Key Features**: Secure uploads, user management, and real-time file access tracking.
+- **Technologies Used**: GDevelop, Pixel Art
+- **Key Features**: Smooth physics, handcrafted levels, and a retro pixel art style.
 
 ---
 
-### [Gravity Flipping Platformer](https://github.com/huseinzahwa/gravity-platformer)  
-An innovative platformer game where gravity flips dynamically as the player moves across the stage.
+### [Project Edge](https://github.com/huseinzahwa/project-edge)  
+An innovative platformer game developed in Unity. The game introduces gravity-flipping mechanics to create a unique and challenging gameplay experience.
 
 - **Technologies Used**: Unity, C#
-- **Key Features**: Custom gravity mechanics, smooth camera transitions, and challenging level design.
+- **Key Features**: Custom gravity mechanics, smooth camera transitions, and strategic level design.
 
 ---
 
-### [Database Design Portfolio](https://github.com/huseinzahwa/database-design)  
-A collection of database design projects showcasing my proficiency in relational database management and SQL.
+### [VaultShare](https://github.com/huseinzahwa/vaultshare)  
+A secure file-sharing application built with Django, featuring user authentication and encrypted file uploads.
 
-- **Technologies Used**: PostgreSQL, MySQL
-- **Key Topics**: Normalization, joins, views, and stored procedures.
+- **Technologies Used**: Python, Django, SQLite
+- **Key Features**: Secure uploads, real-time access tracking, and user management.
 
 ---
 
 ## Education
 
 🎓 **Software Engineering** - Seneca College  
-Currently in my 3rd semester, focusing on practical and theoretical aspects of software development, including databases, web applications, and software security.
+Currently in my 3rd semester, focusing on software development, database design, and game development.
 
 ---
 
-## How to Reach Me
+## Contact Me
 
 - **LinkedIn**: [linkedin.com/in/huseinzahwa](https://www.linkedin.com/in/huseinzahwa)
 - **Email**: hnzahwa@myseneca.ca
@@ -65,5 +69,5 @@ Currently in my 3rd semester, focusing on practical and theoretical aspects of s
 
 ---
 
-### Let's Build Something Amazing Together! 🚀
-Feel free to explore my repositories or get in touch if you'd like to collaborate or learn together.
+### Let's Collaborate! 🚀  
+Feel free to explore my repositories or get in touch if you'd like to work together.
